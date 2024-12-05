@@ -25,6 +25,9 @@
                                 <div class="text-center">
                                     <h1 class="h4 text-gray-900 mb-4">Giriş Yap!</h1>
                                 </div>
+                                <br>
+                                <?=fdata()?>
+                                <br>
                                 <form class="user" action="" method="post">
                                     <div class="form-group">
                                         <input type="text" class="form-control form-control-user"
